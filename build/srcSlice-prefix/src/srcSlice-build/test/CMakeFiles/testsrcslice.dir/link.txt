@@ -1,0 +1,1 @@
+/usr/bin/c++ -O0 -Wno-reorder -Wunused-variable -Wunused-parameter -rdynamic CMakeFiles/testsrcslice.dir/srcslicetest.cpp.o -o ../bin/testsrcslice  -lgtest_main -lgtest ../bin/libsrcsax.a -lsrcml ../bin/libsrcsaxeventdispatch.a /usr/lib/libgtest.so.1.11.0 -lxml2 -lpthread 

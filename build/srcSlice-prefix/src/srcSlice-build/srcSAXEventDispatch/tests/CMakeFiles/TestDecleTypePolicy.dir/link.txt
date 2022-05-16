@@ -1,0 +1,1 @@
+/usr/bin/c++ -O0 -Wno-reorder -Wunused-variable -Wunused-parameter -rdynamic CMakeFiles/TestDecleTypePolicy.dir/TestDecleTypePolicy.cpp.o -o ../../bin/TestDecleTypePolicy  ../../bin/libsrcsaxeventdispatch.a ../../bin/libsrcsax.a -lsrcml -lxml2 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O0 -Wno-reorder -Wunused-variable -Wunused-parameter -rdynamic CMakeFiles/srcslice.dir/cpp/srcslice.cpp.o -o ../bin/srcslice  ../bin/libsrcsaxeventdispatch.a ../bin/libsrcsax.a -lxml2 

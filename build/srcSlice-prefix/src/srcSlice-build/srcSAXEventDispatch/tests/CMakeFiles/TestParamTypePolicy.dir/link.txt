@@ -1,0 +1,1 @@
+/usr/bin/c++ -O0 -Wno-reorder -Wunused-variable -Wunused-parameter -rdynamic CMakeFiles/TestParamTypePolicy.dir/TestParamTypePolicy.cpp.o -o ../../bin/TestParamTypePolicy  ../../bin/libsrcsaxeventdispatch.a ../../bin/libsrcsax.a -lsrcml -lxml2 

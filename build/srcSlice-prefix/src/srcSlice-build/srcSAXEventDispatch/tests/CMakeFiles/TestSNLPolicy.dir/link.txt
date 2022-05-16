@@ -1,0 +1,1 @@
+/usr/bin/c++ -O0 -Wno-reorder -Wunused-variable -Wunused-parameter -rdynamic CMakeFiles/TestSNLPolicy.dir/TestSNLPolicy.cpp.o -o ../../bin/TestSNLPolicy  ../../bin/libsrcsaxeventdispatch.a ../../bin/libsrcsax.a -lsrcml -lxml2 

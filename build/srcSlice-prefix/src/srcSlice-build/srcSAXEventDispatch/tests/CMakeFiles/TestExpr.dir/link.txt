@@ -1,0 +1,1 @@
+/usr/bin/c++ -O0 -Wno-reorder -Wunused-variable -Wunused-parameter -rdynamic CMakeFiles/TestExpr.dir/TestExpr.cpp.o -o ../../bin/TestExpr  ../../bin/libsrcsaxeventdispatch.a ../../bin/libsrcsax.a -lsrcml -lxml2 

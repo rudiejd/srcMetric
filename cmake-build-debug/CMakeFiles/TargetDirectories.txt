@@ -1,0 +1,3 @@
+/home/jd/git/srcMetric/cmake-build-debug/CMakeFiles/srcmetric.dir
+/home/jd/git/srcMetric/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jd/git/srcMetric/cmake-build-debug/CMakeFiles/rebuild_cache.dir

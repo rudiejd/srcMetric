@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=/usr/bin/cmake;-P;/home/jd/git/srcMetric/cmake-build-debug/srcSlice-prefix/tmp/srcSlice-gitclone.cmake
+source_dir=/home/jd/git/srcMetric/cmake-build-debug/srcSlice-prefix/src/srcSlice
+work_dir=/home/jd/git/srcMetric/cmake-build-debug/srcSlice-prefix/src
+repository=https://github.com/srcML/srcSlice
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=
+

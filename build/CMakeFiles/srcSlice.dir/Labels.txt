@@ -1,0 +1,13 @@
+# Target labels
+ srcSlice
+# Source files and their labels
+/home/jd/git/srcMetric/build/CMakeFiles/srcSlice
+/home/jd/git/srcMetric/build/CMakeFiles/srcSlice.rule
+/home/jd/git/srcMetric/build/CMakeFiles/srcSlice-complete.rule
+/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-build.rule
+/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-configure.rule
+/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-download.rule
+/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-install.rule
+/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-mkdir.rule
+/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-patch.rule
+/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-update.rule

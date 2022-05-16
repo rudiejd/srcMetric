@@ -1,0 +1,9 @@
+/home/jd/git/srcMetric/build/external/lib/libsrcsax.so
+/home/jd/git/srcMetric/build/external/lib/libsrcsax.a
+/home/jd/git/srcMetric/build/external/include/srcsax/cppCallbackAdapter.hpp
+/home/jd/git/srcMetric/build/external/include/srcsax/srcSAXController.hpp
+/home/jd/git/srcMetric/build/external/include/srcsax/srcSAXHandler.hpp
+/home/jd/git/srcMetric/build/external/include/srcsax/sax2_srcsax_handler.hpp
+/home/jd/git/srcMetric/build/external/include/srcsax/srcml_element.hpp
+/home/jd/git/srcMetric/build/external/include/srcsax/srcsax.h
+/home/jd/git/srcMetric/build/external/include/srcsax/srcsax_handler.h

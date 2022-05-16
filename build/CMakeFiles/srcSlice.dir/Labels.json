@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jd/git/srcMetric/build/CMakeFiles/srcSlice"
+		},
+		{
+			"file" : "/home/jd/git/srcMetric/build/CMakeFiles/srcSlice.rule"
+		},
+		{
+			"file" : "/home/jd/git/srcMetric/build/CMakeFiles/srcSlice-complete.rule"
+		},
+		{
+			"file" : "/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-build.rule"
+		},
+		{
+			"file" : "/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-configure.rule"
+		},
+		{
+			"file" : "/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-download.rule"
+		},
+		{
+			"file" : "/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-install.rule"
+		},
+		{
+			"file" : "/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-mkdir.rule"
+		},
+		{
+			"file" : "/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-patch.rule"
+		},
+		{
+			"file" : "/home/jd/git/srcMetric/build/srcSlice-prefix/src/srcSlice-stamp/srcSlice-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"srcSlice"
+		],
+		"name" : "srcSlice"
+	}
+}
